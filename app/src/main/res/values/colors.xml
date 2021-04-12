@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorOfCountry">#663399</color>
+    <color name="colorOfTextCountry">#FFFFF0</color>
+    <color name="backgroundOfCountry">#663399</color>
+    <color name="colorOfCountA">#FFA500</color>
+    <color name="colorOfCountB">#FFD700</color>
+    <color name="backgroundOfbuttonsA">#FFA500</color>
+    <color name="backgroundOfbuttonsB">#FFD700</color>
+    <color name="backgroundOfReset">#8A2BE2</color>
+    <color name="colorOfButtunsText">#FFFFF0</color>
+</resources>

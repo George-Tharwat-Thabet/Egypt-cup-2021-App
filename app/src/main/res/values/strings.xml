@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">egypt handball world cup 2021</string>
+    <string name="nameOfTeamA">Egypt</string>
+    <string name="nameOfTeamB">Germany</string>
+    <string name="countOfTeamA">0</string>
+    <string name="countOfTeamB">0</string>
+    <string name="point3">+3 Goals</string>
+    <string name="point2">+2 Goals</string>
+    <string name="point1">1 Goal</string>
+    <string name="foulA">-2 Foul</string>
+    <string name="foulB">-2 Foul</string>
+    <string name="resetButton">Reset</string>
+
+</resources>
